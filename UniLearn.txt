@@ -1,0 +1,7 @@
+UniLearn (Universal Learning) merupakan platform pada bidang pendidikan 
+khususnya berfokus pada teknologi informasi. 
+Platform ini mengembangkan solusi pendidikan dan pelatihan secara remote. 
+UniLearn membuat pengguna dapat belajar mengenai teknologi informasi secara universal 
+dan mendapatkan informasi dimanapun pengguna berada. Platform ini diharapkan dapat 
+memudahkan bagi pengguna dari sistem registrasi hingga kegiatan belajar teknologi 
+informasi berlangsung.
